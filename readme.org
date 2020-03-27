@@ -1,3 +1,10 @@
-# Test Project
+* Test Project
 
-This is just a test project.
+This is just a test project. It's purpose is to practice starting a new project
+and sketching out a new project. Some things in the initial workflow of a
+project are:
+
+ - Initialize a project folder
+ - Create github repo
+ - Initialize todo list
+ - Initialize readme

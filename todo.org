@@ -1,0 +1,5 @@
+* DONE Initial sketch of folder structure
+* DONE Sketch out readme description for project
+  :LOGBOOK:
+  CLOCK: [2020-03-27 Fri 09:37]--[2020-03-27 Fri 09:44] =>  0:07
+  :END:
